@@ -822,6 +822,7 @@ var MaterialTable = /*#__PURE__*/function (_React$Component) {
           ref: provided.innerRef
         }, /*#__PURE__*/React.createElement("div", {
           ref: _this4.tableContainerDiv,
+          className: "test_lol",
           style: {
             maxHeight: props.options.maxBodyHeight,
             minHeight: props.options.minBodyHeight,

@@ -870,6 +870,7 @@ export default class MaterialTable extends React.Component {
                   <div ref={provided.innerRef}>
                     <div
                       ref={this.tableContainerDiv}
+                      className="test_lol"
                       style={{
                         maxHeight: props.options.maxBodyHeight,
                         minHeight: props.options.minBodyHeight,
